@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveen Sajjan
+- 👋 Hi, I’m @Praveenkumar Sajjan
 - 👀 I’m interested in Create and Designing web 
 - 🌱 I’m currently learning Full Stack Web Development @ AlmaBetter
 - 💞️ I’m looking to collaborate on
