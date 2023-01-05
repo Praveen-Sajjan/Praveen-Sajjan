@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Bungee Shade', cursive;
+}
+html,body{
+  display: grid;
+  height: 100%;
+  place-items: center;
+  background: black;
+}
+.wrapper{
+  height: 100px;
+  width: 360px;
+  position:relative;
+  background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+  border-radius: 10px;  
+  cursor: default;
+  animation: animate 2.4s linear infinite;
+}
+.wrapper .display,
+.wrapper span{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.wrapper .display{
+  z-index: 999;
+  height: 85px;
+  width: 345px;
+  background: #1b1b1b;
+  border-radius: 6px;
+  text-align: center; 
+}
+.display #time{
+  line-height: 85px;
+  color: #fff;
+  font-size: 42px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: animate 1.5s linear infinite;
+}
+@keyframes animate {
+  100%{
+    filter: hue-rotate(360deg);
+  }
+}
+.wrapper span{
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+  background: inherit;
+}
+.wrapper span:first-child{
+  filter: blur(7px);
+}
+.wrapper span:last-child{
+  filter: blur(20px);
+}
+h1 {
+  height: 100px;
+  width: 1000px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-family: 'Bungee Shade', cursive;
+  background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+  font-size: 80px;
+  font-weight: 1100;
+  animation: animate 2.4s linear infinite;
+  border-radius: 30px;
+}
+h2{
+ color:yellow;
+ font-size: 24px;
+ text-align: right;
+}
+.button {
+  font-family: 'Bungee Shade', cursive;
+  font-weight: 600;
+    color: black;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: dotted ;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+    animation: animate 1.4s linear infinite;
+
+}
+
