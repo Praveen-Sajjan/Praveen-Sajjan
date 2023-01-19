@@ -3,9 +3,16 @@
 - 🌱 I’m currently learning Full Stack Web Development @ AlmaBetter
 - 💞️ I’m looking to collaborate on any Front-End Projects
 - 📫 How to reach me
-     E-mail: pksajjan333@gmail.com
+   
+     E-mail: sajjanpraveen01@gmail.com
      
      Instagram - https://www.instagram.com/___pravxxn_/
+     
+     Twitter - https://twitter.com/PraveenSajjan01
+     
+     Codepen - https://codepen.io/Pravxxn
+     
+     LinkedIn - https://www.linkedin.com/in/praveenkumar-sajjan-a2132a223/
      
 
 <!---
