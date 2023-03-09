@@ -12,7 +12,7 @@
      
      LinkedIn - https://www.linkedin.com/in/praveenkumar-sajjan-a2132a223/
      
-     Checkout my Codepen profile for my quick, small and unique CSS only projects -
+     Checkout my Codepen profile for my unique CSS only projects -
      Codepen - https://codepen.io/Pravxxn
      
 
