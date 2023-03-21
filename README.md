@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Praveenkumar Sajjan 😎
 - 👀 I’m interested in WEB DESIGNING  
-- 🌱 I’m currently learning Full Stack Web Development @ AlmaBetter
+- 🌱 I’m currently learning Back-End Development @ AlmaBetter
+- 🌱 I’m currently learning Figma design tool.
 - 💞️ I’m looking to collaborate on any Front-End Projects
 - 📫 How to reach me
    
