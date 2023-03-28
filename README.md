@@ -1,5 +1,16 @@
-# 💫 About Me:
-👋 Hi, I’m Praveenkumar Sajjan 😎<br><br>👀 I’m interested in WEB DESIGNING<br><br>🌱 I’m currently learning Back-End Development @ AlmaBetter<br><br>🌱 I’m currently learning Figma design tool.<br><br>💞️ I’m looking to collaborate on any Front-End Projects<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Praveenkumar Sajjan
+===========================================================================================================================================
+
+Front End Developer
+-------------------
+
+Hello/Namaste ! I am Praveenkumar Sajjan, a Front End Developer on the path to Full Stack. I use Technologies like ReactJS and JavaScript to create websites.
+
+*   🌍  I'm based in Karnataka, India
+*   🖥️  See my portfolio at [Praveenkumar Sajjan](http://praveenkumarsajjan.netlify.app/)
+*   ✉️  You can contact me at [sajjanpraveen01@gmail.com](mailto:sajjanpraveen01@gmail.com)
+*   🧠  I'm learning Backend Development and Figma design tool.
+*   🤝  I'm open to collaborating on Front End Projects
 
 
 ## 🌐 Socials:
